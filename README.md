@@ -1,6 +1,7 @@
 
 ![MainGUI](https://github.com/user-attachments/assets/e9766369-3de8-465f-a579-9e7c42a7b761)
-
+##
+##
 <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/7d9b27b5-bdb0-4b2e-9d9f-4f09f0bfc55e" alt="Expired Notification" width="500" height="300"/>
     <img src="https://github.com/user-attachments/assets/ee69cd31-808f-4b61-a4dd-0ebf0d48ce3b" alt="Notifications 2" width="500" height="300"/>
@@ -33,10 +34,21 @@ The Smart Refrigerator System is an innovative application designed to help you 
 - **In Button**: Initiates the process of adding a new item to the refrigerator. When pressed, the system uses image recognition to identify the item and asks the user for the quantity and expiration date.
 - **Out Button**: Initiates the process of removing an item from the refrigerator. Similar to the In button, it uses image recognition and then asks the user for the quantity being removed.
 - **Advanced Options Button**: Provides access to advanced management features such as viewing and managing different lists.
+##
 
 ### Lists
-![Second GUI](https://github.com/user-attachments/assets/2e2a78b7-b06e-4046-a89f-ab7d0b8686b1)
 
+##
+![Second GUI](https://github.com/user-attachments/assets/2e2a78b7-b06e-4046-a89f-ab7d0b8686b1)
+##
+##
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/93f73fe5-df45-4a0c-bdb4-35fa497a33db" alt="Default" width="500" height="300"/>
+    <img src="https://github.com/user-attachments/assets/5760db82-7740-4545-a82a-db9e5c9c0482" alt="InStock" width="500" height="300"/>
+</div>
+
+
+#
 - **Default List**: Displays a predefined list of items commonly stored in the refrigerator. Users can add or delete items from this list to customize it according to their needs.
 - **In Stock List**: Shows all items currently in the refrigerator, including their quantities and expiration dates.
 - **Expiring Soon List**: Lists items that are nearing their expiration date. This list is updated every 10 seconds by checking the 'In Stock' list.
