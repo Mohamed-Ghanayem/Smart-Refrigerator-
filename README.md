@@ -1,9 +1,8 @@
 
 # Smart Refrigerator System
-<div style="text-align: center;">
+<center>
     <img src="https://github.com/user-attachments/assets/e9766369-3de8-465f-a579-9e7c42a7b761" alt="Main GUI" width="600"/>
-</div>
-
+</center>
 ## Overview
 
 The Smart Refrigerator System is an innovative application designed to help you manage your refrigerator's contents efficiently. Using image recognition technology, this system identifies items placed in or taken out of the refrigerator, tracks their quantities, and monitors their expiration dates. The system features an intuitive graphical user interface (GUI) that allows users to interact with and manage their refrigerator's inventory seamlessly.
