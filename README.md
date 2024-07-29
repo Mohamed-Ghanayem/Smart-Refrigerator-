@@ -1,5 +1,6 @@
 
 # Smart Refrigerator System
+![MainGUI](https://github.com/user-attachments/assets/e9766369-3de8-465f-a579-9e7c42a7b761)
 
 ## Overview
 
@@ -27,6 +28,7 @@ The Smart Refrigerator System is an innovative application designed to help you 
 - **Advanced Options Button**: Provides access to advanced management features such as viewing and managing different lists.
 
 ### Lists
+![Second GUI](https://github.com/user-attachments/assets/2e2a78b7-b06e-4046-a89f-ab7d0b8686b1)
 
 - **Default List**: Displays a predefined list of items commonly stored in the refrigerator. Users can add or delete items from this list to customize it according to their needs.
 - **In Stock List**: Shows all items currently in the refrigerator, including their quantities and expiration dates.
