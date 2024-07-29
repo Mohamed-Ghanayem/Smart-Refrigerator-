@@ -2,9 +2,9 @@
 ![MainGUI](https://github.com/user-attachments/assets/e9766369-3de8-465f-a579-9e7c42a7b761)
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/44aaae99-c0bb-4187-9462-a4831d3f1e76" alt="Add Manually" width="300" height="150"/>
-    <img src="https://github.com/user-attachments/assets/7d9b27b5-bdb0-4b2e-9d9f-4f09f0bfc55e" alt="Expired Notification" width="300" height="150"/>
-    <img src="https://github.com/user-attachments/assets/ee69cd31-808f-4b61-a4dd-0ebf0d48ce3b" alt="Notifications 2" width="300" height="150"/>
+    <img src="https://github.com/user-attachments/assets/44aaae99-c0bb-4187-9462-a4831d3f1e76" alt="Add Manually" width="300" height="300"/>
+    <img src="https://github.com/user-attachments/assets/7d9b27b5-bdb0-4b2e-9d9f-4f09f0bfc55e" alt="Expired Notification" width="300" height="300"/>
+    <img src="https://github.com/user-attachments/assets/ee69cd31-808f-4b61-a4dd-0ebf0d48ce3b" alt="Notifications 2" width="300" height="300"/>
 </div>
 
 
