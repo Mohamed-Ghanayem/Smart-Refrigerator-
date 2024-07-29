@@ -1,6 +1,6 @@
 
 # Smart Refrigerator System
-![MainGUI](https://github.com/user-attachments/assets/e9766369-3de8-465f-a579-9e7c42a7b761)
+<img src="https://github.com/user-attachments/assets/e9766369-3de8-465f-a579-9e7c42a7b761" alt="Main GUI" width="600"/>
 
 ## Overview
 
