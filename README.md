@@ -3,8 +3,8 @@
 ##
 ##
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/7d9b27b5-bdb0-4b2e-9d9f-4f09f0bfc55e" alt="Expired Notification" width="500" height="300"/>
-    <img src="https://github.com/user-attachments/assets/ee69cd31-808f-4b61-a4dd-0ebf0d48ce3b" alt="Notifications 2" width="500" height="300"/>
+    <img src="https://github.com/user-attachments/assets/7d9b27b5-bdb0-4b2e-9d9f-4f09f0bfc55e" alt="Expired Notification" width="480" height="300"/>
+    <img src="https://github.com/user-attachments/assets/ee69cd31-808f-4b61-a4dd-0ebf0d48ce3b" alt="Notifications 2" width="480" height="300"/>
 </div>
 
 
@@ -43,8 +43,8 @@ The Smart Refrigerator System is an innovative application designed to help you 
 ##
 ##
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/93f73fe5-df45-4a0c-bdb4-35fa497a33db" alt="Default" width="500" height="300"/>
-    <img src="https://github.com/user-attachments/assets/5760db82-7740-4545-a82a-db9e5c9c0482" alt="InStock" width="500" height="300"/>
+    <img src="https://github.com/user-attachments/assets/93f73fe5-df45-4a0c-bdb4-35fa497a33db" alt="Default" width="480" height="300"/>
+    <img src="https://github.com/user-attachments/assets/5760db82-7740-4545-a82a-db9e5c9c0482" alt="InStock" width="480" height="300"/>
 </div>
 
 
