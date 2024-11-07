@@ -1,0 +1,38 @@
+{
+    "1": {
+        "name": "Lettuce",
+        "amount": "1",
+        "expiration_date": "08/08/2024",
+        "entry_date": "29/07/2024"
+    },
+    "3": {
+        "name": "Orange",
+        "amount": "1",
+        "expiration_date": "30/07/2024",
+        "entry_date": "29/07/2024"
+    },
+    "2": {
+        "name": "Grape",
+        "amount": "1",
+        "expiration_date": "13/08/2024",
+        "entry_date": "03/08/2024"
+    },
+    "5": {
+        "name": "Apple",
+        "amount": "1",
+        "expiration_date": "04/08/2024",
+        "entry_date": "03/08/2024"
+    },
+    "4": {
+        "name": "Lemon",
+        "amount": "1",
+        "expiration_date": "13/08/2024",
+        "entry_date": "03/08/2024"
+    },
+    "6": {
+        "name": "Watermelon",
+        "amount": "1",
+        "expiration_date": "04/08/2024",
+        "entry_date": "03/08/2024"
+    }
+}
